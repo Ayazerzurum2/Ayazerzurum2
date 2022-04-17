@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaz</h1>
 <h3 align="center">Turkish uh... Java enjoyer..?</h3>
 
-- 🔭 I’m currently interested on [Grim Anticheat](https://github.com/MWHunter/Grim)
+- 🔭 I’m currently interested in [Grim Anticheat](https://github.com/MWHunter/Grim)
 
 - 🌱 I’m currently practicing **Anything related to Java**
 
