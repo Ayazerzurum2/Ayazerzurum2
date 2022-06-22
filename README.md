@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaz</h1>
-<h3 align="center">Turkish uh... Java enjoyer..?</h3>
+<h3 align="center">Turkish uh... Java enjoyer(but i skid, all the time)..?</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ayazerzurum2&data=repositories)](https://github.com/Jurredr/github-widgetbox)
 
